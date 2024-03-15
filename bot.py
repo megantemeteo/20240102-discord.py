@@ -23,4 +23,4 @@ async def ping(interaction: discord.Interaction):
     await interaction.response.send_message("Pong!")
 
 
-bot.run("TOKEN")
+bot.run("MTIxODE3MzAyNDAxNzA1OTg1MA.GhNXX2.EHu3VlG7pT2zk1c5yCc9ZP2-jJ9gwMCZ2HeEUM")
